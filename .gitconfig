@@ -1,0 +1,25 @@
+[user]
+    email = 1491403+wangtengchuan@users.noreply.github.com
+    name = wangtengchuan
+[core]
+    quotepath = false
+[gui]
+    encoding = utf-8
+[i18n "commit"]
+    encoding = utf-8
+[i18n]
+    logoutputencoding = utf-8
+[alias]
+    co = checkout
+    br = branch
+    ci = commit
+    st = status
+[color]
+	status = auto
+	diff = auto
+	branch = auto
+	interactive = auto
+[http]
+	sslVerify = false
+[credential]
+	helper = store
